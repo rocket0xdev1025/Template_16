@@ -1739,7 +1739,7 @@
   function de_share() {
     var url = window.location.href;
     $(".fa-twitter").on("click", function () {
-      window.open("https://x.com/i/communities/2034221519434604544", "_blank");
+      window.open("https://x.com/i/communities/2036599643539382550", "_blank");
     });
     $(".fa-facebook").on("click", function () {
       window.open(
